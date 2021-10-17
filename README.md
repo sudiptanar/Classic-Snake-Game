@@ -1,5 +1,5 @@
 # Classic-Snake-Game
-A simple snake game in Java. Using Threads and Java Swing to display the game.
+A simple classic snake game in Java. Using Threads and Java Swing to display the game.
 
 ### Technologies used: 
 * Java OOP concepts
